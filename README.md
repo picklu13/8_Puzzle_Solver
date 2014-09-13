@@ -7,11 +7,7 @@ a given state. Implemented the following search algorithms and test them on the 
 in each case, measured and printed out the number of nodes examined and the total time required to solve the puzzle, 
 as well as the sequence of moves to solve the problem.
 
-Goal:        Easy:        Medium:        Hard:        Worst:
 
-1 2 3        1 3 4        2 8 1          2 8 1        5 6 7
-8   4        8 6 2          4 3          4 6 3        4   8
-7 6 5        7   5        7 6 5            7 5        3 2 1
 
 Depth-first blind search, with testing for duplicate states.
 Bounded depth-first search, with testing for duplicate states.
