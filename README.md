@@ -2,7 +2,10 @@
 ===============
 Inspired by http://www.cs.utexas.edu/users/novak/asg-8p.html
 
-Coded for a representation for the state of an 8-puzzle and functions to generate the legal moves and to apply an operator to a given state are provided in the file /projects/cs381k/8puzzle.lsp . Implement the following search algorithms and test them on the start states and goal state shown below; in each case, measure and print out the number of nodes examined and the total time required to solve the puzzle, as well as the sequence of moves to solve the problem.
+Coded for a representation for the state of an 8-puzzle and functions to generate the legal moves and to apply an operator to
+a given state. Implemented the following search algorithms and test them on the start states and goal state shown below; 
+in each case, measured and printed out the number of nodes examined and the total time required to solve the puzzle, 
+as well as the sequence of moves to solve the problem.
 
 Goal:        Easy:        Medium:        Hard:        Worst:
 
